@@ -30,7 +30,7 @@ Welcome to the Table Tennis Game! This is a simple yet engaging two-player table
  
     Move Up: **W**
 
-    Move Down: **S**
+    Move Down: **X**
 
 
 - **Player 2**:
